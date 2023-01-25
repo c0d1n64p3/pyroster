@@ -1,2 +1,3 @@
 # pyroster
-convert a duty-roster in a *.xlsx-file to a *.ics-file
+convert a duty-roster.xlsx to a *.ics-file 
+
